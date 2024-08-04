@@ -60,7 +60,7 @@ This project is a fully functional blog application built using React. The main 
 8. Design in Figma:
 
    ```bash
-   https://www.figma.com/design/jPXqvWWDbjQ5MaeokS3B2u/Ignite-Feed-%E2%80%A2-Projeto-React?node-id=1-35&t=OhaOaX4xUadrfAAr-0
+   https://www.figma.com/design/zjvY9inly7CJVJLwe9G2kV/Ignite-Timer-%E2%80%A2-Projeto-React?node-id=0-1&t=Hd8siT3udcNs4jDm-0
    ``` 
 
  ## Web project 
