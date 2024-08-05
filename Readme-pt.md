@@ -9,9 +9,9 @@
 
 
 
-# Entrega de projeto - Criando um landing page com React | Rocketseat
+# Entrega de projeto - Criando um Timer com React | Rocketseat
 
-Este projeto é uma aplicação de blog totalmente funcional construída usando React. O principal objetivo deste projeto é demonstrar como construir componentes e organizar efetivamente seu projeto React utilizando as ferramentas e recursos fornecidos pelo framework Vite.
+Este projeto é uma aplicação de Timer totalmente funcional construída usando React. O principal objetivo deste projeto é demonstrar como construir componentes e organizar efetivamente seu projeto React utilizando as ferramentas e recursos fornecidos pelo framework Vite.
 
 ## Tecnologias Utilizadas
 
@@ -25,7 +25,7 @@ Este projeto é uma aplicação de blog totalmente funcional construída usando 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Miguelalmeida01/React_typeScript-CursoRocketseat.git
+   git clone https://github.com/Miguelalmeida01/ProjetoTimer-CursoRocketseat-.git
    ```
 
 2. Navegue até o diretório do projeto:
@@ -71,6 +71,4 @@ Este projeto é uma aplicação de blog totalmente funcional construída usando 
 
 <img src="img/Captura2.png" />
 
-<img src="img/Captura3.png" />
-
-<a href="https://github.com/Miguelalmeida01/typeScript-cursoIgnite?tab=readme-ov-file#entrega-de-projeto---criando-um-blog-com-angular--dio" style="color:#B0E0E6">Voltar</a> 
+<a href="https://github.com/Miguelalmeida01/ProjetoTimer-CursoRocketseat-?tab=readme-ov-file#project-delivery---creating-a-landing-page-with-react--rocketseat" style="color:#B0E0E6">Voltar</a> 

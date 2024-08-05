@@ -4,9 +4,9 @@
 
 <a href="Readme-pt.md" style="color:#B0E0E6;">Portuguese</a>
 
-# Project Delivery - Creating a Landing Page with React | Rocketseat 
+# Project Deliverable - Building a Timer with React | Rocketseat
 
-This project is a fully functional blog application built using React. The main goal of this project is to demonstrate how to effectively build components and organize your React project using the tools and resources provided by the Vite framework.
+ This project is a fully functional Timer application built using React. The main goal of this project is to demonstrate how to effectively build components and organize your React project using the tools and features provided by the Vite framework.
 
 ## Technologies Used 
 
@@ -20,7 +20,7 @@ This project is a fully functional blog application built using React. The main 
 1. Clone the repository: 
 
    ```bash 
-   git clone https://github.com/Miguelalmeida01/React_typeScript-CursoRocketseat.git 
+   git clone https://github.com/Miguelalmeida01/ProjetoTimer-CursoRocketseat-.git 
    ``` 
 2. Navigate to the project directory: 
 
@@ -69,8 +69,5 @@ This project is a fully functional blog application built using React. The main 
 
  <img src="img/Captura2.png" /> 
  
- <img src="img/Captura3.png" /> 
- 
- 
-<a href="https://github.com/Miguelalmeida01/typeScript-cursoIgnite?tab=readme-ov-file#entrega-de-projeto---criando-um-blog-com-angular--dio" style="color:#B0E0E6;" >
+<a href="https://github.com/Miguelalmeida01/ProjetoTimer-CursoRocketseat-?tab=readme-ov-file#project-delivery---creating-a-landing-page-with-react--rocketseat" style="color:#B0E0E6;" >
 Back</a> 
